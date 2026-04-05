@@ -61,5 +61,3 @@ text cleaning, spelling correction, and lattice-based fair evaluation.
 ## 🛠️ Tech Stack
 
 `Python` `HuggingFace Transformers` `PyTorch` `Whisper` `librosa` `Kaggle T4 GPU`
-
----
